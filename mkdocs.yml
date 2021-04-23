@@ -61,6 +61,8 @@ nav:
   - Кастамону лахикасы:
     - Кастамону лахикасы: books/kastamon/main.md
     - Унутчаактык: books/kastamon/content1.md
+  - Лемалар:
+    - Биринчи лема: books/lemalar/1_lema.md
   - Reference:
     - Abbreviations: reference/abbreviations.md
     - Admonitions: reference/admonitions.md
