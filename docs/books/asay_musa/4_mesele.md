@@ -3,11 +3,6 @@ hide:
   #- navigation # Hide navigation
   - toc        # Hide table of contents
 ---
-<style>
-    .t_center {
-        text-align:center;
-    }
-</style>
 
 <h2 class="t_center">Төртүнчү маселе</h2>
 

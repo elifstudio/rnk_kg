@@ -3,14 +3,6 @@ hide:
   #- navigation # Hide navigation
   - toc        # Hide table of contents
 ---
-<style>
-    .t_center {
-        text-align:center;
-    }
-    .arabic {
-      font-size: 25px;
-    }
-</style>
 
 <p class="t_center arabic"> بِسْمِ اللّهِ الرَّحْمنِ الرَّحِيمِ </p>
 <p class="t_center arabic">فَلَبِثَ فِى السِّجْنِ بِضْعَ سِنِينَ</p>

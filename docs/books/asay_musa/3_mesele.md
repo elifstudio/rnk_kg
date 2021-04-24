@@ -3,11 +3,6 @@ hide:
   #- navigation # Hide navigation
   - toc        # Hide table of contents
 ---
-<style>
-    .t_center {
-        text-align:center;
-    }
-</style>
 
 <h2 class="t_center">Үчүнчү маселе</h2>
 **«Жаштарга жол көрсөткүч» китепчесинде кененирээк баяндалган үлгү ала турган бир окуянын кыскача мазмуну мындайча:**

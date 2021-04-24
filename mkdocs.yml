@@ -26,8 +26,8 @@ theme:
     #- navigation.tabs
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: deep orange
+      accent: deep orange
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -40,9 +40,14 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
+  logo: imgs/rnk_logo.png
+  favicon: imgs/rnk_logo.png
+
+extra_css:
+  - stylesheets/styles.css
+
+extra_javascript:
+  - javascripts/main.js
 
 # Plugins
 plugins:
@@ -52,35 +57,16 @@ plugins:
 nav:
   - Аса-йы Муса:
     - Аса-йы Муса: books/asay_musa/main.md
-    - 1-маселе: books/asay_musa/1_mesele.md
-    - 2-маселе: books/asay_musa/2_mesele.md
-    - 3-маселе: books/asay_musa/3_mesele.md
-    - 4-маселе: books/asay_musa/4_mesele.md
-    - 5-маселе: books/asay_musa/5_mesele.md
-    - 6-маселе: books/asay_musa/6_mesele.md
+    - Биринчи маселе: books/asay_musa/1_mesele.md
+    - Экинчи маселе: books/asay_musa/2_mesele.md
+    - Үчүнчү маселе: books/asay_musa/3_mesele.md
+    - Төртүнчү маселе: books/asay_musa/4_mesele.md
+    - Бешинчи маселе: books/asay_musa/5_mesele.md
+    - Алтынчы маселе: books/asay_musa/6_mesele.md
   - Кастамону лахикасы:
     - Кастамону лахикасы: books/kastamon/main.md
     - Унутчаактык: books/kastamon/content1.md
   - Лемалар:
     - Биринчи лема: books/lemalar/1_lema.md
-  - Reference:
-    - Abbreviations: reference/abbreviations.md
-    - Admonitions: reference/admonitions.md
-    - Buttons: reference/buttons.md
-    - Code blocks: reference/code-blocks.md
-    - Content tabs: reference/content-tabs.md
-    - Data tables: reference/data-tables.md
-    - Diagrams: reference/diagrams.md
-    - Footnotes: reference/footnotes.md
-    - Formatting: reference/formatting.md
-    - Icons + Emojis: reference/icons-emojis.md
-    - Images: reference/images.md
-    - Lists: reference/lists.md
-    - MathJax: reference/mathjax.md
-    - Meta tags: reference/meta-tags.md
-    - Variables: reference/variables.md
-  - Insiders:
-    - Sponsorship: insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
+    - Он Жетинчи лема: books/lemalar/17_lema.md
+    - Жыйырманчы лема: books/lemalar/20_lema.md
