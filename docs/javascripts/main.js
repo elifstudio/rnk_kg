@@ -8,12 +8,12 @@ function showModalView(value) {
 function modalCloseEvent() {
     let modal = document.getElementById("modalId");
     let close = document.getElementById("closeModalId");
-    close.onclick = function () {
-        modal.style.display = "none";
+    if (close) {
+        close.onclick = function () {
+            modal.style.display = "none";
+        }
     }
     window.onclick = function (event) {
         if (event.target == modal) modal.style.display = "none";
     }
 }
-
-//hey
