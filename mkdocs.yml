@@ -72,3 +72,10 @@ nav:
     - Жыйырманчы лема: books/lemalar/20_lema.md
     - Жыйырма биринчи лема: books/lemalar/21_lema.md
     - Жыйырма бешинчи лема: books/lemalar/25_lema.md
+  - Мектубат:
+    - 12-мектуб: books/mektubat/12_mektup.md
+    - 19-мектуб:
+      - 19-мектуб: books/mektubat/19_mektup.md
+      - 1-ишаарат: books/mektubat/19_mektup_1_isharat.md
+      - 2-ишаарат: books/mektubat/19_mektup_2_isharat.md
+      - 3-ишаарат: books/mektubat/19_mektup_3_isharat.md
